@@ -1,26 +1,168 @@
-<h1 align="center">Hi 👋, I'm priyanshu kanojia</h1>
-<h3 align="center">A passionate machine learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshukanojia5&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshukanojia5" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshukanojia5" alt="priyanshukanojia5" /></a> </p>
+# Hi 👋, I'm Priyanshu Kanojia
 
-- 🔭 I’m currently working on **examly**
+### Machine Learning Engineer in the Making | AIML Student | Developer
 
-- 📫 How to reach me **priyanshukanojia9167@gmail.com**
+Building projects, learning AI/ML, and solving real-world problems 🚀
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://komarev.com/ghpvc/?username=priyanshukanojia5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+[![GitHub followers](https://img.shields.io/github/followers/priyanshukanojia5?label=Followers&style=social)](https://github.com/priyanshukanojia5?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/priyanshukanojia5?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/priyanshukanojia5?tab=repositories)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at TCET Mumbai.
+- 🔭 Currently working on **Examly**.
+- 🌱 Learning Machine Learning, Data Science, and AI.
+- 💡 Interested in building practical AI-powered applications.
+- 📫 Email: **priyanshukanojia9167@gmail.com**
+- ⚡ Goal: Keep learning, building, and improving every day.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/priyanshu kanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu kanojia" height="30" width="40" /></a>
-<a href="https://instagram.com/priyanshu_.ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu_.ka" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshukanojia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshukanojia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/priyanshu_.ka/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://leetcode.com/priyanshukanojia/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+> Replace the LinkedIn link above with your actual profile URL.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshukanojia5&show_icons=true&locale=en&layout=compact" alt="priyanshukanojia5" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&locale=en" alt="priyanshukanojia5" /></p>
+## 🛠️ Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukanojia5&" alt="priyanshukanojia5" /></p>
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="45" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="45" alt="NumPy"/></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="45" alt="Scikit-learn"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow"/></a>
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="45" alt="Jupyter"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="45" alt="Flask"/></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="45" alt="Arduino"/></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukanojia5&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukanojia5&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 📦 Repository and Language Insights
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshukanojia5&theme=tokyonight" alt="Profile Summary"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshukanojia5&theme=tokyonight" alt="GitHub Summary Stats"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshukanojia5&theme=tokyonight" alt="Repositories by Language"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Examly
+🔗 [Explore My Repositories](https://github.com/priyanshukanojia5?tab=repositories)
+
+My current project. Add a short description of its purpose, features, and technologies used.
+
+### 2. AI/ML Projects
+🔗 [View My Projects](https://github.com/priyanshukanojia5?tab=repositories)
+
+Explore my machine learning experiments, data analysis, and AI applications.
+
+### 3. DSA and Problem Solving
+🔗 [My LeetCode Profile](https://leetcode.com/priyanshukanojia/)
+
+Practicing data structures, algorithms, and programming problems.
+
+> Replace these examples with direct links to your best repositories.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=priyanshukanojia5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake (Optional)
+
+To enable this animation, configure a GitHub Actions workflow to generate the contribution snake SVG and publish it to an `output` branch.
+
+<!-- Uncomment after setting up the workflow:
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/priyanshukanojia5/priyanshukanojia5/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+-->
+
+---
+
+<div align="center">
+
+### 💬 Thanks for visiting my profile!
+
+**Learning • Building • Improving**
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</div>
