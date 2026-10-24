@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Priyanshu%20Kanojia&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=AI%20%7C%20Machine%20Learning%20%7C%20Developer&descSize=17&descAlignY=65" width="100%" alt="Priyanshu Kanojia profile banner"/>
@@ -8,9 +7,10 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshukanojia5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kanojia-ab03243b2/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukanojia9167@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_.ka)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/priyanshukanojia/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshuKANOJIA/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanshukanojia5&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
 
@@ -74,39 +74,67 @@ Hi! I'm **Priyanshu**, an AIML student at TCET Mumbai who enjoys coding, explori
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshukanojia5&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/priyanshukanojia5?tab=repositories">
-  <img src="https://img.shields.io/badge/📚_Examly-Current_Project-1D4ED8?style=for-the-badge" alt="Examly"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Examly</h3>
+      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-1D4ED8?style=flat-square" alt="Status: in progress"/>
+      <img src="https://img.shields.io/badge/FOCUS-AI_%2F_ML-06B6D4?style=flat-square" alt="Focus: AI/ML"/>
+      <p>My current build, a project aimed at solving a real problem with AI and code. Follow the repo for updates as it grows.</p>
+      <a href="https://github.com/priyanshukanojia5?tab=repositories">
+        <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Examly repository"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Heat Mitigation using AI/ML</h3>
+      <img src="https://img.shields.io/badge/EVENT-SIH_2026-F59E0B?style=flat-square" alt="Event: SIH 2026"/>
+      <img src="https://img.shields.io/badge/TEAM-SVAAP-1D4ED8?style=flat-square" alt="Team: Svaap"/>
+      <p>Our Smart India Hackathon 2026 problem statement: optimizing heat mitigation with AI and machine learning.</p>
+      <a href="https://github.com/priyanshukanojia5?tab=repositories">
+        <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>My current project. Explore my repositories for more details and updates.</p>
-
 <a href="https://github.com/priyanshukanojia5?tab=repositories">
-  <img src="https://img.shields.io/badge/💻_Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/💻_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
 </a>
 
 </div>
 
-> **Tip:** Add direct links to your 2–3 best repositories here, along with a one-line description of what each project does.
-
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h1>🚀</h1>
+      <b>SIH 2026</b><br/>
+      <sub>Second Round Qualified</sub><br/>
+      <sub>Team Svaap · Heat Mitigation using AI/ML</sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>🥇</h1>
+      <b>AI Crime Lab</b><br/>
+      <sub>1st Place</sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>🥈</h1>
+      <b>IPL Auction</b><br/>
+      <sub>2nd Place</sub>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-profile-trophy.vercel.app/?username=priyanshukanojia5&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub achievements"/>
 
@@ -118,8 +146,17 @@ Hi! I'm **Priyanshu**, an AIML student at TCET Mumbai who enjoys coding, explori
 
 ### 🤝 Let's Connect and Build Something Great!
 
-<a href="mailto:priyanshukanojia9167@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_Me-Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
+<a href="https://www.linkedin.com/in/priyanshu-kanojia-ab03243b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-priyanshu--kanojia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/priyanshukanojia5">
+  <img src="https://img.shields.io/badge/GitHub-priyanshukanojia5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/priyanshu_.ka">
+  <img src="https://img.shields.io/badge/Instagram-priyanshu__.ka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://leetcode.com/u/priyanshuKANOJIA/">
+  <img src="https://img.shields.io/badge/LeetCode-priyanshuKANOJIA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
