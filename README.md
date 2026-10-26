@@ -34,7 +34,7 @@
 
 ## About Me
 
-Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at TCET Mumbai.
+I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artificial Intelligence and Machine Learning at TCET Mumbai.
 
 - Studying Artificial Intelligence and Machine Learning.
 - Currently working on **Examly**.
@@ -48,7 +48,7 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,sklearn,numpy,pandas,jupyter,html,css,flask,git,github,vscode,arduino&theme=dark" alt="Technologies and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,sklearn,numpy,pandas,jupyter,html,css,flask,git,github,vscode,arduino&theme=dark&perline=15" alt="Python, Java, C, TensorFlow, Scikit-learn, NumPy, Pandas, Jupyter, HTML, CSS, Flask, Git, GitHub, VS Code, Arduino"/>
 
 </div>
 
@@ -59,10 +59,13 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
 <div align="center">
 
 <a href="https://github.com/priyanshukanojia5">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&include_all_commits=true&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/priyanshukanojia5">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=6" alt="Most used programming languages"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Most used programming languages"/>
 </a>
 
 </div>
@@ -73,7 +76,9 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukanojia5&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub contribution streak"/>
+<a href="https://github.com/priyanshukanojia5">
+  <img width="95%" src="https://streak-stats.demolab.com/?user=priyanshukanojia5&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=38BDF8" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
@@ -87,15 +92,15 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
   <tr>
     <td width="50%" valign="top">
       <h3>Examly</h3>
-      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-1D4ED8?style=flat-square" alt="Status: In progress"/>
-      <p>An ongoing project focused on building a useful application through software development and problem-solving.</p>
+      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-1D4ED8?style=flat-square" alt="In progress"/>
+      <p>An ongoing software project focused on building a useful application through development and problem-solving.</p>
       <a href="https://github.com/priyanshukanojia5?tab=repositories">
         <img src="https://img.shields.io/badge/Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore repositories"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>Heat Mitigation Using AI/ML</h3>
-      <img src="https://img.shields.io/badge/FOCUS-HEAT_MITIGATION-06B6D4?style=flat-square" alt="Focus: Heat mitigation"/>
+      <img src="https://img.shields.io/badge/FOCUS-HEAT_MITIGATION-06B6D4?style=flat-square" alt="Heat mitigation"/>
       <img src="https://img.shields.io/badge/TEAM-SVAAP-1D4ED8?style=flat-square" alt="Team Svaap"/>
       <p>A Smart India Hackathon project exploring data-driven approaches to urban heat-risk assessment and heat mitigation planning.</p>
       <a href="https://github.com/priyanshukanojia5?tab=repositories">
@@ -106,7 +111,7 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
   <tr>
     <td width="50%" valign="top">
       <h3>Smart Expense Analyzer</h3>
-      <img src="https://img.shields.io/badge/FOCUS-DATA_ANALYSIS-06B6D4?style=flat-square" alt="Focus: Data analysis"/>
+      <img src="https://img.shields.io/badge/FOCUS-DATA_ANALYSIS-06B6D4?style=flat-square" alt="Data analysis"/>
       <p>A project focused on analyzing expenses and understanding spending patterns.</p>
       <a href="https://github.com/priyanshukanojia5/SmartExpenseAnalyzer">
         <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View Smart Expense Analyzer"/>
@@ -126,30 +131,47 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
 
 ---
 
-## Achievements
+## Achievements & Recognition
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>SIH 2026</h3>
-      <b>Second-Round Qualification</b>
+      <img src="https://img.shields.io/badge/SIH_2026-QUALIFIED-2563EB?style=for-the-badge" alt="SIH qualification"/>
+      <br/><br/>
+      <strong>Smart India Hackathon</strong>
       <br/>
-      <sub>Team Svaap · Heat Mitigation</sub>
+      <sub>Second-Round Qualification</sub>
+      <br/><br/>
+      <sub>Team Svaap</sub>
+      <br/>
+      <sub>Heat Mitigation Project</sub>
     </td>
     <td align="center" width="33%">
-      <h3>AI Crime Lab</h3>
-      <b>1st Place</b>
+      <img src="https://img.shields.io/badge/1st_PLACE-GOLD-F59E0B?style=for-the-badge" alt="First place"/>
+      <br/><br/>
+      <strong>AI Crime Lab</strong>
+      <br/>
+      <sub>First Place</sub>
+      <br/><br/>
+      <sub>Competition Achievement</sub>
     </td>
     <td align="center" width="33%">
-      <h3>IPL Auction</h3>
-      <b>2nd Place</b>
+      <img src="https://img.shields.io/badge/2nd_PLACE-SILVER-94A3B8?style=for-the-badge" alt="Second place"/>
+      <br/><br/>
+      <strong>IPL Auction</strong>
+      <br/>
+      <sub>Second Place</sub>
+      <br/><br/>
+      <sub>Competition Achievement</sub>
     </td>
   </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshukanojia5&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshukanojia5&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub profile trophies"/>
 
 </div>
 
@@ -160,16 +182,16 @@ Hi, I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Arti
 <div align="center">
 
 <a href="https://www.linkedin.com/in/priyanshu-kanojia-ab03243b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/priyanshukanojia5">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://instagram.com/priyanshu_.ka">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://leetcode.com/u/priyanshuKANOJIA/">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
