@@ -45,47 +45,38 @@ I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artifici
 
 ---
 
+
 ## Tech Stack
 
 <div align="center">
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,sklearn,flask,html,css,git,github,vscode,arduino&theme=dark" alt="Programming and development tools"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="Python Java C"/>
-
-### AI / Machine Learning & Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,jupyter&theme=dark" alt="TensorFlow Scikit-learn NumPy Pandas Jupyter"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,flask&theme=dark" alt="HTML CSS Flask"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Git GitHub VS Code Arduino"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 
 </div>
 
----
+
 
 ## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/priyanshukanojia5">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshukanojia5&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Statistics"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/priyanshukanojia5">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%" alt="Most Used Languages"/>
 </a>
 
 </div>
 
----
 
 ## Contribution Streak
 
