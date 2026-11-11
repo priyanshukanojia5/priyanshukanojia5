@@ -62,8 +62,6 @@ I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artifici
 
 
 
-## GitHub Analytics
-
 
 ## GitHub Analytics
 
