@@ -63,12 +63,13 @@ I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artifici
 
 
 
+
 ## GitHub Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats-priyanshu.vercel.app/api?username=priyanshukanojia5&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  src="./profile/stats.svg"
   width="100%"
   alt="GitHub Statistics"
 />
@@ -76,12 +77,13 @@ I'm **Priyanshu Kanojia**, a second-year B.Tech student specializing in Artifici
 <br/><br/>
 
 <img
-  src="https://github-readme-stats-priyanshu.vercel.app/api/top-langs/?username=priyanshukanojia5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  src="./profile/top-langs.svg"
   width="100%"
-  alt="Most Used Languages"
+  alt="Most Used Programming Languages"
 />
 
 </div>
+
 
 
 ## Contribution Streak
